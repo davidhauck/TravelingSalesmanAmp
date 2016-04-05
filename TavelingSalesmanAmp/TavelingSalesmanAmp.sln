@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TavelingSalesmanAmp", "TavelingSalesmanAmp\TavelingSalesmanAmp.vcxproj", "{EA05D1F9-DC96-45D3-9185-918C0776D0FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA05D1F9-DC96-45D3-9185-918C0776D0FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA05D1F9-DC96-45D3-9185-918C0776D0FC}.Debug|Win32.Build.0 = Debug|Win32
+		{EA05D1F9-DC96-45D3-9185-918C0776D0FC}.Release|Win32.ActiveCfg = Release|Win32
+		{EA05D1F9-DC96-45D3-9185-918C0776D0FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
